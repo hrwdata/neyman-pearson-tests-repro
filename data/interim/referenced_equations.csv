@@ -1,0 +1,22 @@
+equation_id,section,raw_ocr_text,corrected_math_text,used_by,verification_status
+37,III(b) Example 1,"OCR: threshold inequality for normal mean test; degraded around log k.","Known-variance normal mean test yields one-sided rejection threshold in sample mean; for upper alternatives reject for standardized mean > z_{1-epsilon}.","ex01;fig04",ocr_only_pending_pdf_verification
+38,III(b) Example 1,"OCR: x > x0 for a1 > a0.","For alternatives with a_1>a_0, the best critical region is xbar > x_0.","ex01;fig04",ocr_only_pending_pdf_verification
+46,III(b) Example 2,"OCR: chi-square density p(phi)=...", "Chi-square density relationship for sum of squared centered normal observations.","ex02;fig05",ocr_only_pending_pdf_verification
+48,III(b) Example 2,"OCR: s^2 = sigma_0^2 phi/n, f=n-1.","Using sample variance as comparator gives chi-square degrees of freedom n-1.","ex02;fig05",ocr_only_pending_pdf_verification
+50,III(b) Example 2,"OCR: choose phi0 so upper-tail probability is epsilon.","Critical value phi_0 satisfies P_{H0}(Phi >= phi_0)=epsilon.","ex02;fig05",ocr_only_pending_pdf_verification
+51,III(b) Example 2,"OCR: under alternative chance of accepting H0 is integral to phi0.","Under sigma_1=h sigma_0, acceptance probability is F_chi2(phi_0/h^2; df).","ex02;fig05",ocr_only_pending_pdf_verification
+63,III(b) Rectangular examples,"OCR: p(x)=1/b inside a-|b/2 < x < a+|b/2 and zero outside.","Rectangular distribution: p(x)=1/b for a-b/2 < x < a+b/2, otherwise 0.","ex04;ex05;ex06;fig07;fig08",ocr_only_pending_pdf_verification
+64,III(b) Example 4,"OCR: W0 is region within hypercube defined by a0 - b0/2 < xi < a0 + b0/2.","For H0 in Example 4, W0 is the hypercube a0-b0/2 < x_i < a0+b0/2.","ex04;fig07",ocr_only_pending_pdf_verification
+117,IV(d) Example 8,"OCR: integral relationship defining z0 for Student test.","The threshold z0 is determined by a Student-type tail integral depending on n and epsilon.","ex08;fig10",ocr_only_pending_pdf_verification
+118,IV(d) Example 8,"OCR: z=(x-a0)/s > z0.","For alternatives a_t>a_0, reject for z=(xbar-a0)/s > z0, up to the paper's variance convention.","ex08;fig10",ocr_only_pending_pdf_verification
+119,IV(d) Example 8,"OCR: z=(x-a0)/s < -z0.","For alternatives a_t<a_0, reject for z=(xbar-a0)/s < -z0, up to the paper's variance convention.","ex08;fig10",ocr_only_pending_pdf_verification
+127,IV(d) Example 9,"OCR: case sigma_t > sigma_0, s^2 > s0^2.","For larger-variance alternatives with unknown mean, reject for sufficiently large sample variance.","ex09",ocr_only_pending_pdf_verification
+128,IV(d) Example 9,"OCR: case sigma_t < sigma_0, s^2 < s0'^2.","For smaller-variance alternatives with unknown mean, reject for sufficiently small sample variance.","ex09",ocr_only_pending_pdf_verification
+190,V(c) Example 10,"OCR: beta integral equation for u0.","The variance-ratio statistic can be expressed through an incomplete beta integral for U.","ex10",ocr_only_pending_pdf_verification
+191,V(c) Example 10,"OCR: complementary beta integral for lower critical region.","The lower-tail counterpart is given by the complementary beta integral.","ex10",ocr_only_pending_pdf_verification
+193,V(c) Example 10,"OCR: u=n2 s2^2/(n1 s1^2+n2 s2^2) critical inequality.","Define U=n2 s2^2/(n1 s1^2+n2 s2^2) and reject in the appropriate tail.","ex10",ocr_only_pending_pdf_verification
+224,V(c) Example 11,"OCR: Student-type integral for z0.","Critical value for two-sample common-variance mean test is determined by a Student-type integral.","ex11",ocr_only_pending_pdf_verification
+225,V(c) Example 11,"OCR: lower-tail integral for z0'.","Lower-tail counterpart for the two-sample common-variance mean test.","ex11",ocr_only_pending_pdf_verification
+226,V(c) Example 11,"OCR: z expression greater than z0.","For positive mean-difference alternatives, reject for sufficiently large standardized difference.","ex11",ocr_only_pending_pdf_verification
+227,V(c) Example 11,"OCR: z expression less than z0'.","For negative mean-difference alternatives, reject for sufficiently small standardized difference.","ex11",ocr_only_pending_pdf_verification
+228,V(c) Example 11,"OCR: Fisher uses t=z sqrt(N-2).","Paper notes Fisher's t statistic scaling t=z sqrt(N-2).","ex11",ocr_only_pending_pdf_verification

@@ -1,0 +1,11 @@
+figure_id,path,status,source_examples,source_equations,description
+fig04,outputs/figures/fig04.png,schematic_geometry,ex01,37;38,Schematic figure; not a pixel-exact reproduction.
+fig05,outputs/figures/fig05.png,schematic_geometry,ex02,46;48;50;51,Schematic density comparison.
+fig07,outputs/figures/fig07.png,schematic_geometry,ex04,63;64,Schematic overlap geometry.
+fig08,outputs/figures/fig08.png,schematic_geometry,ex06,63,Schematic range-based likelihood region.
+fig10,outputs/figures/fig10.png,schematic_geometry,ex08,117;118;119,Distributional schematic for the cone test.
+fig01,,documented_future_work,,,Not implemented in this release; listed for inventory completeness.
+fig02,,documented_future_work,,,Not implemented in this release; listed for inventory completeness.
+fig03,,documented_future_work,,,Not implemented in this release; listed for inventory completeness.
+fig06,,documented_future_work,,,Not implemented in this release; listed for inventory completeness.
+fig09,,documented_future_work,,,Not implemented in this release; listed for inventory completeness.
